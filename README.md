@@ -5,7 +5,7 @@ Created by [Ali Cheraghian](https://arxiv.org/abs/1902.10272) from Australian Na
 
 
 # Introduction
-This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.07161), which appeared in MVA 2019. We proposed a novel zero-shot learning framework for 3D point clouds. 
+This work is based on our [arXiv tech report](https://arxiv.org/abs/1902.10272), which appeared in MVA 2019. We proposed a novel zero-shot learning framework for 3D point clouds. 
 
 Zero-shot learning, the task of learning to recognize new classes  not  seen  during  training,  has  received  considerable attention in the case of 2D image classification. However despite the increasing ubiquity of 3D sensors, the corresponding 3D point cloud classification problem has not been meaningfully explored and introduces new challenges. This  project  extends,  for  the  first  time, transductive  Zero-Shot Learning (ZSL) and Generalized Zero-Shot Learning (GZSL) approaches to the domain of 3D point cloud classification. 
 
