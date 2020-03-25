@@ -1,7 +1,7 @@
 # Zero-shot Learning of 3D Point Cloud Objects
 
 
-Created by [Ali Cheraghian](https://arxiv.org/abs/1902.10272) from Australian National University.
+Created by [Ali Cheraghian](https://scholar.google.com/citations?user=QT0EXIkAAAAJ&hl=en) from Australian National University.
 
 
 # Introduction
