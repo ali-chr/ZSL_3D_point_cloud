@@ -39,7 +39,7 @@ You can download the feature vectors, which are extracted from a pretrained Poin
 # Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{cheraghian2019transductive,
+	@article{cheraghian2019ZSL3D,
 	  title={Zero-shot Learning of 3D Point Cloud Objects},
 	  author={Ali Cheraghian, Shafin Rahman, and Lars Petersson},
 	  journal={2019 16th International Conference on Machine Vision Applications (MVA)},
